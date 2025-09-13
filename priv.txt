@@ -1,0 +1,3 @@
+whoami /all
+hostname
+net user
